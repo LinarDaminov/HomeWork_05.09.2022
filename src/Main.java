@@ -61,5 +61,4 @@ public class Main {
             System.out.println("Месяц " + i + " сумма накоплений равна " + totalYear + " рублей");
         }
         }
-
     }
